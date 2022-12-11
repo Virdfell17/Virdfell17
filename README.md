@@ -1,10 +1,10 @@
 # Acquaintance
 ### Hi there, my name is Aliia
-#### I am a physicist, vegan, volunteer and a person who is looking for a profession that he will enjoy.
+#### I am a physicist, vegan, volunteer and a person who is looking for a profession that I will enjoy.
 
 Skills: VMAT / IMRT / Jira / SDLC and STLC / API testing / MySQL
 
-- 🌱 I’m currently learning Thai and try to improve my English in order to feel better and more comfortable in a new country 
+- I’m currently learning Thai and try to improve my English in order to feel better and more comfortable in a new country 
 - 📫 How to reach me: al.suleymanova3@gmail.com 
 
 
