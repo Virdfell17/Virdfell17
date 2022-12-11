@@ -14,4 +14,3 @@ Skills: VMAT / IMRT / Jira / SDLC and STLC / API testing / MySQL
 
 ![Profile views](https://gpvc.arturio.dev/Virdfell17)  
 
-создать оформление пользуясь https://proglib.io/p/kak-kreativno-oformit-profil-na-github-chtoby-on-privlekal-vnimanie-2022-03-17
