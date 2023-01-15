@@ -28,7 +28,7 @@ Hi there, my name is Aliia<br>A bit of C++, a bit of Java, but that was 5 years 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/virffell?_rdc=1&_rdr ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliia-suleimanova/ ) 
 
-# 📊 GitHub Stats:
+# 🐙 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Virdfell17&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ---
