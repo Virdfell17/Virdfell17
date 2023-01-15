@@ -4,7 +4,7 @@ Hi there, my name is Aliia<br>A bit of C++, a bit of Java, but that was 5 years 
 
 
 ## My CV
-[Link to my CV](https://drive.google.com/drive/u/2/folders/1LM6-ouFWht6lWroOsCPDaV-hk-eVOO5s )
+[Link to my CV](https://drive.google.com/file/d/1KladxFDxyEuXgAnSpDTNZpVVZTglyN6b/view)
 
 ### 💻 Tech Stack:
 [![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
@@ -20,9 +20,9 @@ Hi there, my name is Aliia<br>A bit of C++, a bit of Java, but that was 5 years 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 
 ### Testing Documentation
-- [Checklists](https://drive.google.com/drive/u/2/folders/1LM6-ouFWht6lWroOsCPDaV-hk-eVOO5s )
-- [Test-Suites and Test-Cases]( https://drive.google.com/drive/u/2/folders/1LM6-ouFWht6lWroOsCPDaV-hk-eVOO5s )
-- [Bug-Reports](https://drive.google.com/drive/u/2/folders/1LM6-ouFWht6lWroOsCPDaV-hk-eVOO5s)
+- [Checklists](https://drive.google.com/file/d/1Ab8TMQicBmYLo-EgWWx-muPkkPie6m--/view?usp=sharing)
+- [Test-Suites and Test-Cases]( https://drive.google.com/file/d/1e5q2m62i8M0IX1FEkfulMhdTx-HWBsiz/view?usp=sharing)
+- [Bug-Reports](https://drive.google.com/file/d/1c_m8-h_7G3IR2vvvCf-bMng6lwZeFTZw/view)
 
 
 ## 🌐 Socials:
