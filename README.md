@@ -4,7 +4,7 @@ Hi there, my name is Aliia<br>A bit of C++, a bit of Java, but that was 5 years 
 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1KladxFDxyEuXgAnSpDTNZpVVZTglyN6b/view)
+[Link to my CV](https://drive.google.com/file/d/184Uur34XvLbszQR2vS65H6vUd-weiwWZ/view)
 
 ### 💻 Tech Stack:
 [![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
